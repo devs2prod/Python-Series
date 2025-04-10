@@ -8,18 +8,15 @@
 
 ## Types of datatype:
 
-#### Primitive data type:
-- int
-- str
-- float
-- bool
-- none
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
 
-#### Collection data type:
-- list
-- tuple
-- set
-- dict
 
 ## Rules for declaring the variables:
 - A variable name must start with a letter or the underscore character
